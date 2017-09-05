@@ -1,4 +1,4 @@
-## The following functions creat a special matrox that can cache its inverse and solve it.
+## The following functions creat a special matrox that can cache its inverse and return it.
 
 ## This function creates a special matrix object that can cache its inverse.
 
